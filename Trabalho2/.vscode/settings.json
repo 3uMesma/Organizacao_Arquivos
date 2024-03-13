@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "node.h": "c",
+        "time.h": "c",
+        "stdlib.h": "c",
+        "arvoreb.h": "c",
+        "*.tcc": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "random": "c",
+        "gerenciador_indice.h": "c"
+    }
+}

@@ -1,0 +1,7 @@
+5 binario6.bin idCrime inteiro indice6.bin 6
+1 idCrime 1410
+1 idCrime 1171
+3 idCrime 671 dataCrime "31/08/2020" numeroArtigo 157
+2 marcaCelular "MOTOROLA" dataCrime "31/08/2020"
+1 lugarCrime "SAO CARLOS"
+2 lugarCrime "MAUA" marcaCelular "SAMSUNG"
